@@ -44,3 +44,5 @@ title: "Αρχική"
   opacity: .75;
 }
 
+<a href="javascript:void(0)" class="button">Default Button</a>
+
